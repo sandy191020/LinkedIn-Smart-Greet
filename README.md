@@ -180,11 +180,13 @@ If no company is found, the message adapts automatically.
 
 ## 📜 License
 
-This project is open-sourced under the MIT License for
-personal, educational, and non-commercial use.
+📜 License
+This project is open-sourced under the MIT License.
 
-For commercial use (including paid extensions, SaaS, or resale),
-please contact the author for a commercial license.
+You are free to use, modify, and distribute this project.
+Attribution to the original author is required.
+
+For commercial usage inquiries, please contact the author.
 
 ---
 
