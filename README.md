@@ -65,21 +65,17 @@ This tool is intended for **light, human-assisted usage only**.
 
 ## 📁 Project Structure
 
-linkedin-smart-greet/
-│
-├── manifest.json
-├── background.js
-├── content.js
-├── popup.html
-├── popup.js
-├── popup.css
-├── ai.js
-│
-├── icons/
-│ └── icon128.png
-│
-└── README.md
-
+linkedin-smart-greet/<br>
+|-- manifest.json<br>
+|-- background.js<br>
+|-- content.js<br>
+|-- popup.html<br>
+|-- popup.js<br>
+|-- popup.css<br>
+|-- ai.js<br>
+|-- icons/<br>
+|&nbsp;&nbsp;|-- icon128.png<br>
+|-- README.md
 
 ---
 
